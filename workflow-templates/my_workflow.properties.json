@@ -1,0 +1,6 @@
+{
+  "name": "my new workflow template 🐱‍🏍",
+  "descriptions":"This workflow template is for demo purposes only 🐱‍👤",
+  "categories":["C#"],
+  "filePatterns": ["**.sln"]
+}
